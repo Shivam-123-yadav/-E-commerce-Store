@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Product",
+    "price": 100,
+    "image": "images/products/sample.jpg",
+    "description": "This is a sample product."
+  }
+]

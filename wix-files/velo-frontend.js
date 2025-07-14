@@ -1,0 +1,3 @@
+// Wix frontend code for ecommerce project
+
+// ...add frontend logic here...

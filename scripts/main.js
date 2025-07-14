@@ -1,0 +1,3 @@
+// Main JavaScript for Ecommerce Project
+
+// ...main logic here...

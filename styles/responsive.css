@@ -1,0 +1,6 @@
+/* Responsive styles for Ecommerce Project */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}

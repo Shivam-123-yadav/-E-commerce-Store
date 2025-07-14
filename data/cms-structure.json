@@ -1,0 +1,13 @@
+{
+  "collections": [
+    {
+      "name": "Products",
+      "fields": [
+        { "id": "name", "type": "string" },
+        { "id": "price", "type": "number" },
+        { "id": "image", "type": "string" },
+        { "id": "description", "type": "string" }
+      ]
+    }
+  ]
+}

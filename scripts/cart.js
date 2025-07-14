@@ -1,0 +1,3 @@
+// Shopping cart functionality for Ecommerce Project
+
+// ...cart logic here...
